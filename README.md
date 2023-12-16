@@ -1,3 +1,3 @@
 # ApnaTaskHai
 This is my git repository.
-Author- Mohammed Ishaq
+Author- Mohammed (Software Developer)
